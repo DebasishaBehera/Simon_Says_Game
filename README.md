@@ -6,12 +6,12 @@
 
 ## How to Play
 
-- Press any key to start the game.
-- Watch the sequence of colored button flashes.
-- Repeat the sequence by clicking the buttons in the same order.
-- Each level adds a new color to the sequence.
-- If you make a mistake, the game ends and your score (level reached) is displayed.
-- Press any key to restart and try again!
+1. Press any key to start the game.
+2. Watch the sequence of colored button flashes.
+3. Repeat the sequence by clicking the buttons in the same order.
+4. Each level adds a new color to the sequence.
+5. If you make a mistake, the game ends and your score (level reached) is displayed.
+6. Press any key to restart and try again!
 
 ## Features
 
